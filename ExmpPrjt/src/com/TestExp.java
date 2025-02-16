@@ -12,6 +12,9 @@ public class TestExp {
 			System.out.println("Say Hii");
 		}
 		
+		public static void bye() {
+			System.out.println("Bye");
+		
 
 	}
 
