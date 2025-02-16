@@ -10,9 +10,13 @@ public class TestExp {
 		System.out.println("Hello");
 		
 	}
+	
+	
 		
 		public static void bye() {
 			System.out.println("Bye");
+			
+			System.out.println("Man");
 		
 	}
 		
