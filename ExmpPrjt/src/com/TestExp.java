@@ -7,6 +7,8 @@ public class TestExp {
 		
 		System.out.println("Hi");
 		
+		System.out.println("Hello");
+		
 	}
 		
 		public static void bye() {
