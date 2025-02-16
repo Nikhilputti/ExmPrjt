@@ -7,6 +7,11 @@ public class TestExp {
 		
 		System.out.println("Hi");
 		
+	}
+		public static void sayHi() {
+			System.out.println("Say Hii");
+		}
+		
 
 	}
 
